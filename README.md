@@ -1,8 +1,4 @@
 ### Hello World (literally) :boom:
-
- :coffee:  I love coffe!
- 
- :computer:  I’m currently focusing in Laravel and Node.js
  
  :books:  I like to study about new techs and opportunities
  
