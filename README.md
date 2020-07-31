@@ -4,6 +4,8 @@
  
  :rocket:  You can see my personal website at [https://rafaelemery.github.io](https://rafaelemery.github.io)
  
+ :hammer: My stack and tools for coding is available at [https://stackshare.io/RafaelEmery/personal-stack](https://stackshare.io/RafaelEmery/personal-stack)
+ 
  :busts_in_silhouette:  Take a look at my LinkedIn profile: [https://www.linkedin.com/in/rafael-emery/](https://www.linkedin.com/in/rafael-emery/)
  
  :black_nib:  And you can read my medium stories (pt-BR) at [https://medium.com/@rafael.emerycade](https://medium.com/@rafael.emerycade)
