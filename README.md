@@ -22,4 +22,4 @@ JSON         22 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![RafaelEmery's github stats](https://github-readme-stats.vercel.app/api?username=RafaelEmery)](https://github.com/anuraghazra/github-readme-stats)
+[![RafaelEmery's github stats](https://github-readme-stats.vercel.app/api?username=RafaelEmery&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
