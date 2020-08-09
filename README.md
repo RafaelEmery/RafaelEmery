@@ -9,6 +9,8 @@
  :busts_in_silhouette:  Take a look at my LinkedIn profile: [https://www.linkedin.com/in/rafael-emery/](https://www.linkedin.com/in/rafael-emery/)
  
  :black_nib:  And you can read my medium stories (pt-BR) at [https://medium.com/@rafael.emerycade](https://medium.com/@rafael.emerycade)
+ 
+ :bar_chart: Check my stats from Waka Time (VS Code) and GitHub:
 
 <!--START_SECTION:waka-->
 ```text
@@ -22,4 +24,4 @@ JSON         22 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![RafaelEmery's github stats](https://github-readme-stats.vercel.app/api?username=RafaelEmery&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![RafaelEmery's github stats](https://github-readme-stats.vercel.app/api?username=RafaelEmery&show_icons=true&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
