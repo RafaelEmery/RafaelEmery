@@ -1,4 +1,4 @@
-### Hello World (literally) :boom:
+### Hello, World (literally) :boom:
  
  :books:  I like to study new techs and opportunities
  
@@ -21,3 +21,5 @@ Go           28 mins         ██░░░░░░░░░░░░░░░
 JSON         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
 ```
 <!--END_SECTION:waka-->
+
+[![RafaelEmery's github stats](https://github-readme-stats.vercel.app/api?username=RafaelEmery)](https://github.com/anuraghazra/github-readme-stats)
