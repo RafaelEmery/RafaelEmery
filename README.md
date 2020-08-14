@@ -14,13 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 August, 2020 - 12 August, 2020
-
-TypeScript   40 mins         ████████████░░░░░░░░░░░░░   50.19 % 
-Go           24 mins         ███████░░░░░░░░░░░░░░░░░░   31.23 % 
-JSON         11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
