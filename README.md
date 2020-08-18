@@ -1,4 +1,4 @@
-### Hello, World (literally) :boom:
+### Hello World :boom:
  
  :books:  I like to study new techs and opportunities
  
@@ -10,7 +10,7 @@
  
  :black_nib: Read my medium stories (pt-BR) at [medium.com/@rafael.emerycade](https://medium.com/@rafael.emerycade) or [RafaelEmery/my-medium-stories](https://github.com/RafaelEmery/my-medium-stories)
  
- :bar_chart: Check my stats from Waka Time (VS Code) and GitHub:
+ :bar_chart: Check my stats from WakaTime (VS Code) and GitHub:
 
 <!--START_SECTION:waka-->
 ```text
