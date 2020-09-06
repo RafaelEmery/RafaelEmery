@@ -14,12 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 August, 2020 - 04 September, 2020
-
-JavaScript   46 mins         ███████████▒░░░░░░░░░░░░░   45.75 % 
-Markdown     34 mins         ████████▒░░░░░░░░░░░░░░░░   33.56 % 
-JSON         16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
