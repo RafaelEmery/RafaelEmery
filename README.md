@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2020 - 19 September, 2020
+Week: 13 September, 2020 - 20 September, 2020
 
 JavaScript   34 mins         ████████████████▒░░░░░░░░   65.59 % 
 JSON         14 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.25 % 
