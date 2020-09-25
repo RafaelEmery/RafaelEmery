@@ -2,6 +2,8 @@
  
  :books:  I like to study new techs and opportunities
  
+ :computer: I'm currently working at Ensinio
+ 
  :rocket:  You can see my personal website at [rafaelemery.github.io](https://rafaelemery.github.io)
  
  :hammer: My stack and tools for coding is available at [stackshare.io/RafaelEmery/personal-stack](https://stackshare.io/RafaelEmery/personal-stack)
