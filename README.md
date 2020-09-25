@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2020 - 23 September, 2020
+Week: 17 September, 2020 - 24 September, 2020
 
-YAML         2 hrs           ████████▓░░░░░░░░░░░░░░░░   35.20 % 
-Other        1 hr 44 mins    ███████▓░░░░░░░░░░░░░░░░░   30.72 % 
-PHP          1 hr 8 mins     █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Git Config   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+PHP          2 hrs 30 mins   ████████▓░░░░░░░░░░░░░░░░   34.60 % 
+YAML         2 hrs           ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Other        1 hr 55 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.60 % 
+Git Config   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 ```
 <!--END_SECTION:waka-->
 
