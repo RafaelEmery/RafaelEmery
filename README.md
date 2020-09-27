@@ -16,13 +16,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2020 - 25 September, 2020
+Week: 19 September, 2020 - 26 September, 2020
 
-PHP              4 hrs 5 mins    ███████████░░░░░░░░░░░░░░   43.42 % 
-Other            2 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.91 % 
-YAML             2 hrs           █████▒░░░░░░░░░░░░░░░░░░░   21.31 % 
-Git Config       19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Blade Template   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+PHP          4 hrs 34 mins   ██████████▒░░░░░░░░░░░░░░   40.74 % 
+Other        2 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.85 % 
+YAML         2 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.84 % 
+HTML         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Git Config   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
 <!--END_SECTION:waka-->
 
