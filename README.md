@@ -16,7 +16,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2020 - 26 September, 2020
+Week: 20 September, 2020 - 27 September, 2020
 
 PHP          4 hrs 34 mins   ██████████▒░░░░░░░░░░░░░░   40.74 % 
 Other        2 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.85 % 
