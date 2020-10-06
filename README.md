@@ -16,12 +16,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 September, 2020 - 04 October, 2020
+Week: 28 September, 2020 - 05 October, 2020
 
-PHP      8 hrs 19 mins   █████████████████▒░░░░░░░   69.71 % 
-JSON     2 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.28 % 
-Other    37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-Vue.js   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+PHP      9 hrs 59 mins   ██████████████████▒░░░░░░   73.42 % 
+JSON     2 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Other    38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Vue.js   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 ```
 <!--END_SECTION:waka-->
 
