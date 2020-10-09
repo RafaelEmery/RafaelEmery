@@ -29,6 +29,6 @@ Vue.js           56 mins         ▓░░░░░░░░░░░░░░�
 <!-- [![RafaelEmery's github stats](https://github-readme-stats.vercel.app/api?username=RafaelEmery&show_icons=true&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p width="100%">
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=RafaelEmery&show_icons=true&count_private=true&hide=prs)" alt="RafaelEmery" />
+<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=RafaelEmery&show_icons=true&count_private=true&hide=prs" alt="RafaelEmery" />
 <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelEmery&layout=compact&hide=html,jupyter%20notebook,css" alt="RafaelEmery" />
 </p>
