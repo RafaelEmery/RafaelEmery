@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/RafaelEmery)
+<!--![Profile views](https://gpvc.arturio.dev/RafaelEmery)-->
   
  :computer: I'm currently working as Junior Back-End Developer at Ensinio
  
