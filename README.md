@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2020 - 26 October, 2020
+Week: 20 October, 2020 - 27 October, 2020
 
-Vue.js           15 hrs 57 mins  ██████████▓░░░░░░░░░░░░░░   42.63 % 
-PHP              8 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-Blade Template   5 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-JSON             2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-CSS              1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Vue.js           15 hrs 33 mins  ██████████▒░░░░░░░░░░░░░░   40.67 % 
+PHP              8 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.22 % 
+Blade Template   5 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+JSON             3 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+CSS              2 hrs 56 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
 <!--END_SECTION:waka-->
 
