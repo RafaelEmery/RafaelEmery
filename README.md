@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 November, 2020 - 16 November, 2020
+Week: 10 November, 2020 - 17 November, 2020
 
-Vue.js           9 hrs 58 mins   ████████░░░░░░░░░░░░░░░░░   32.42 % 
-PHP              9 hrs 14 mins   ███████▓░░░░░░░░░░░░░░░░░   30.02 % 
-SCSS             4 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Blade Template   3 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-CSS              2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Vue.js           10 hrs 41 mins  ████████░░░░░░░░░░░░░░░░░   32.66 % 
+PHP              8 hrs 40 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.48 % 
+Blade Template   6 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.38 % 
+SCSS             4 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+CSS              1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 ```
 <!--END_SECTION:waka-->
 
