@@ -14,12 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 November, 2020 - 02 December, 2020
+Week: 26 November, 2020 - 03 December, 2020
 
-PHP          23 hrs 34 mins  █████████████████▒░░░░░░░   68.93 % 
-Vue.js       7 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.10 % 
-JavaScript   1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-JSON         1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+PHP          25 hrs 30 mins  ████████████████████░░░░░   80.37 % 
+Vue.js       3 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+JavaScript   1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+JSON         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Git          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 <!--END_SECTION:waka-->
 
