@@ -14,12 +14,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2020 - 09 December, 2020
+Week: 03 December, 2020 - 10 December, 2020
 
-PHP              19 hrs 31 mins  ████████████████████████▒   96.96 % 
-Git              21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-JSON             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Blade Template   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+PHP    21 hrs 21 mins  ████████████████████████▓   98.06 % 
+Git    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+JSON   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
 
