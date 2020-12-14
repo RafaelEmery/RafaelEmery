@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 December, 2020 - 12 December, 2020
+Week: 06 December, 2020 - 13 December, 2020
 
 PHP      21 hrs 38 mins  ████████████████████████▓   98.32 % 
 JSON     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
