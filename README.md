@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 December, 2020 - 17 December, 2020
+Week: 11 December, 2020 - 18 December, 2020
 
-PHP          17 hrs 4 mins   █████████████████████░░░░   84.65 % 
-Python       2 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Vue.js       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+PHP          19 hrs 2 mins   █████████████████████░░░░   83.82 % 
+Python       2 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+JSON         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Git Config   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 <!--END_SECTION:waka-->
 
