@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2020 - 24 December, 2020
+Week: 18 December, 2020 - 25 December, 2020
 
-PHP              24 hrs 58 mins  █████████████████████▒░░░   85.83 % 
-JSON             2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Vue.js           51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Other            16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Blade Template   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+PHP              24 hrs 20 mins  █████████████████████▒░░░   84.94 % 
+JSON             2 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Vue.js           51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Blade Template   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Other            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
 
