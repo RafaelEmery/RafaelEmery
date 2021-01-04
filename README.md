@@ -14,13 +14,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2020 - 02 January, 2021
+Week: 27 December, 2020 - 03 January, 2021
 
-PHP              13 hrs 49 mins  ███████████████████████▒░   93.95 % 
-JSON             24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Blade Template   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Other            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-JavaScript       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+PHP              8 hrs 42 mins   ███████████████████████▓░   94.99 % 
+JSON             18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Other            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Blade Template   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 <!--END_SECTION:waka-->
 
