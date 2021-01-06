@@ -14,11 +14,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2020 - 04 January, 2021
+Week: 29 December, 2020 - 05 January, 2021
 
-PHP              7 hrs 49 mins   ████████████████████████▒   97.70 % 
-JSON             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Blade Template   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+PHP   3 hrs 42 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
