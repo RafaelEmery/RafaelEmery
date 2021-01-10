@@ -14,10 +14,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 January, 2021 - 08 January, 2021
+Week: 02 January, 2021 - 09 January, 2021
 
-PHP    12 hrs 33 mins  ███████████████████████▒░   93.32 % 
-JSON   53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+PHP          17 hrs 29 mins  ███████████████████████░░   92.24 % 
+JSON         1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 ```
 <!--END_SECTION:waka-->
 
