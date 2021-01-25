@@ -14,12 +14,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 January, 2021 - 23 January, 2021
+Week: 17 January, 2021 - 24 January, 2021
 
-PHP              22 hrs 12 mins  ██████████████████████░░░   87.54 % 
-JSON             1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Other            1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Blade Template   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+PHP              20 hrs 22 mins  █████████████████████▓░░░   86.90 % 
+JSON             1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Other            1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Blade Template   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 ```
 <!--END_SECTION:waka-->
 
