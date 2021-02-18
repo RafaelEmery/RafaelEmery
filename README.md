@@ -14,12 +14,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2021 - 16 February, 2021
+Week: 10 February, 2021 - 17 February, 2021
 
-PHP              13 hrs 10 mins  ██████████████████████▒░░   89.39 % 
-JSON             1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Blade Template   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Git              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+PHP              15 hrs 8 mins   ██████████████████████░░░   87.87 % 
+JSON             1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Blade Template   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Git              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
 
