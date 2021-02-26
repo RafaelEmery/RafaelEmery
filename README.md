@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 February, 2021 - 24 February, 2021
+Week: 18 February, 2021 - 25 February, 2021
 
-PHP              10 hrs 11 mins  █████████████▓░░░░░░░░░░░   55.19 % 
-Vue.js           4 hrs 35 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.89 % 
-JavaScript       1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-JSON             54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Blade Template   50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+PHP              10 hrs 27 mins  ██████████████▒░░░░░░░░░░   56.73 % 
+Vue.js           4 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.97 % 
+JavaScript       1 hr 51 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+JSON             45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Blade Template   41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 ```
 <!--END_SECTION:waka-->
 
