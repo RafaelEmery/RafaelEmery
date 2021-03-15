@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 March, 2021 - 13 March, 2021
+Week: 07 March, 2021 - 14 March, 2021
 
 PHP              12 hrs 3 mins   ███████████████▓░░░░░░░░░   62.92 % 
 Vue.js           3 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
