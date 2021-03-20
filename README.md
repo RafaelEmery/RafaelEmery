@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 March, 2021 - 18 March, 2021
+Week: 12 March, 2021 - 19 March, 2021
 
-PHP              7 hrs 25 mins   █████████░░░░░░░░░░░░░░░░   35.39 % 
-Vue.js           5 hrs 17 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.22 % 
-SCSS             3 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Blade Template   1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-CSS              58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Vue.js           5 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   29.75 % 
+SCSS             4 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+PHP              3 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Blade Template   2 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+CSS              1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 ```
 <!--END_SECTION:waka-->
 
