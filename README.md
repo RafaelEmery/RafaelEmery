@@ -1,6 +1,6 @@
 <!--![Profile views](https://gpvc.arturio.dev/RafaelEmery)-->
   
- :computer: I'm currently working as Junior Back-End Developer at Ensinio
+ :computer: I'm currently working as Junior Backend Developer at Ensinio
  
  :rocket:  You can see my personal website at [rafaelemery.github.io](https://rafaelemery.github.io)
  
