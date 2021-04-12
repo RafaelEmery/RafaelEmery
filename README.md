@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 April, 2021 - 10 April, 2021
+Week: 04 April, 2021 - 11 April, 2021
 
 PHP        11 hrs 34 mins  █████████████████████▒░░░   85.81 % 
 Python     1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
