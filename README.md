@@ -14,13 +14,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 April, 2021 - 22 April, 2021
+Week: 16 April, 2021 - 23 April, 2021
 
-PHP              17 hrs 54 mins  ██████████████████████▒░░   88.93 % 
+PHP              17 hrs 56 mins  ██████████████████████▒░░   89.13 % 
 C++              1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Other            16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Git Config       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Blade Template   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Other            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Blade Template   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 <!--END_SECTION:waka-->
 
