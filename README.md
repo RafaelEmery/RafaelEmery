@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 April, 2021 - 01 May, 2021
+Week: 25 April, 2021 - 02 May, 2021
 
 PHP          14 hrs 4 mins   ████████████████████████░   96.20 % 
 Markdown     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
