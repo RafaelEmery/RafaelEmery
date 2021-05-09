@@ -14,10 +14,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 April, 2021 - 07 May, 2021
+Week: 01 May, 2021 - 08 May, 2021
 
-PHP              21 hrs 40 mins  ████████████████████████▓   99.10 % 
-Other            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+PHP              25 hrs 45 mins  ████████████████████████▓   99.23 % 
+Other            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 <!--END_SECTION:waka-->
 
