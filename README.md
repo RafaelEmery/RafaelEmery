@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 May, 2021 - 06 June, 2021
+Week: 31 May, 2021 - 07 June, 2021
 
 PHP          21 hrs 21 mins  ████████████████████████░   95.50 % 
 Other        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
