@@ -14,11 +14,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 June, 2021 - 11 June, 2021
+Week: 05 June, 2021 - 12 June, 2021
 
-PHP          24 hrs 26 mins  ███████████████████████▒░   93.84 % 
-Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Markdown     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+PHP          23 hrs 27 mins  ███████████████████████▓░   94.52 % 
+Other        51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Markdown     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 <!--END_SECTION:waka-->
