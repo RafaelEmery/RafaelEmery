@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 June, 2021 - 12 June, 2021
+Week: 06 June, 2021 - 13 June, 2021
 
 PHP          23 hrs 27 mins  ███████████████████████▓░   94.52 % 
 Other        51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
