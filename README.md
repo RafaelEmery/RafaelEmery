@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 July, 2021 - 17 July, 2021
+Week: 12 July, 2021 - 18 July, 2021
 
 PHP          25 hrs 58 mins  ████████████████████████░   95.94 % 
 Other        1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
