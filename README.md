@@ -14,11 +14,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 July, 2021 - 22 July, 2021
+Week: 17 July, 2021 - 23 July, 2021
 
-PHP              18 hrs 4 mins   ██████████████████████▓░░   91.03 % 
-Other            1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-JavaScript       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+PHP              19 hrs 48 mins  ███████████████████████░░   91.75 % 
+Other            1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+JavaScript       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
 
