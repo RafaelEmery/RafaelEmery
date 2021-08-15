@@ -14,10 +14,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 August, 2021 - 13 August, 2021
+Week: 08 August, 2021 - 14 August, 2021
 
-PHP          14 hrs 7 mins   ███████████████████████▓░   94.10 % 
-Other        53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+PHP          13 hrs 19 mins  ███████████████████████▒░   93.66 % 
+Other        53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 ```
 <!--END_SECTION:waka-->
 
