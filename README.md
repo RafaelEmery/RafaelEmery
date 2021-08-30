@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 August, 2021 - 28 August, 2021
+Week: 23 August, 2021 - 29 August, 2021
 
 PHP          17 hrs 45 mins  ███████████████████████▒░   92.78 % 
 Other        1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
