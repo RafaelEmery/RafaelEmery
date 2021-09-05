@@ -14,13 +14,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 August, 2021 - 03 September, 2021
+Week: 29 August, 2021 - 04 September, 2021
 
-PHP          14 hrs 10 mins  ██████████████████████░░░   87.56 % 
-Other        1 hr 51 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-TypeScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+PHP          12 hrs 48 mins  █████████████████████▓░░░   86.88 % 
+Other        1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+TypeScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 <!--END_SECTION:waka-->
 
