@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 August, 2021 - 04 September, 2021
+Week: 31 August, 2021 - 06 September, 2021
 
 PHP          12 hrs 48 mins  █████████████████████▓░░░   86.88 % 
 Other        1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
