@@ -14,12 +14,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 September, 2021 - 16 September, 2021
+Week: 11 September, 2021 - 17 September, 2021
 
-PHP     16 hrs 24 mins  ████████████████████▓░░░░   82.55 % 
-Other   1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-C       1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-YAML    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+PHP          16 hrs 28 mins  ████████████████████▓░░░░   82.70 % 
+Other        1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+C            1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 ```
 <!--END_SECTION:waka-->
 
