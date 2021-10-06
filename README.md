@@ -14,12 +14,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 September, 2021 - 04 October, 2021
+Week: 29 September, 2021 - 05 October, 2021
 
-PHP          17 hrs 19 mins  ████████████████████████▒   97.47 % 
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-TypeScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+PHP          15 hrs 38 mins  ████████████████████████▒   96.82 % 
+Other        29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 <!--END_SECTION:waka-->
 
