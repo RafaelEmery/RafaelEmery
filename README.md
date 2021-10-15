@@ -14,10 +14,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 October, 2021 - 13 October, 2021
+Week: 08 October, 2021 - 14 October, 2021
 
-PHP     18 hrs 42 mins  ████████████████████████░   95.95 % 
-Other   47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+PHP          16 hrs 32 mins  ████████████████████████▒   97.74 % 
+Other        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 <!--END_SECTION:waka-->
 
