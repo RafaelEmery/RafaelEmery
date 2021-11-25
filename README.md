@@ -13,14 +13,12 @@
  <!-- :bar_chart: Check my stats from WakaTime (VS Code) and GitHub: -->
 
 <!--START_SECTION:waka-->
-<!--
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
-PHP     12 hrs 41 mins  ██████████████████████▓░░   90.49 % 
-Other   1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+PHP     11 hrs 12 mins  ████████████████████████░   95.39 % 
+Other   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 ```
--->
 <!--END_SECTION:waka-->
 
 <!-- [![RafaelEmery's github stats](https://github-readme-stats.vercel.app/api?username=RafaelEmery&show_icons=true&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats) -->
