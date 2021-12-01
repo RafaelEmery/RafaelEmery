@@ -14,11 +14,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2021 - 29 November, 2021
+Week: 24 November, 2021 - 30 November, 2021
 
-PHP          14 hrs 5 mins   ████████████████████████▒   97.17 % 
-Other        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+PHP          13 hrs 35 mins  ███████████████████████▓░   95.32 % 
+Python       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 <!--END_SECTION:waka-->
 
