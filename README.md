@@ -14,12 +14,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2021 - 10 December, 2021
+Week: 05 December, 2021 - 11 December, 2021
 
-PHP      6 hrs 27 mins   ██████████████████████▓░░   90.03 % 
-Python   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-JSON     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+PHP     5 hrs 33 mins   ███████████████████████░░   92.17 % 
+JSON    26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 <!--END_SECTION:waka-->
 
