@@ -14,12 +14,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2021 - 18 December, 2021
+Week: 13 December, 2021 - 19 December, 2021
 
-PHP              12 hrs 3 mins   █████████████████████░░░░   84.11 % 
-Other            1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Blade Template   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-YAML             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+PHP              12 hrs 3 mins   █████████████████████▒░░░   84.88 % 
+Other            1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Blade Template   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+YAML             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 CSS              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 <!--END_SECTION:waka-->
