@@ -14,10 +14,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
-PHP          6 hrs 25 mins   ████████████████████████▓   98.79 % 
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+PHP          7 hrs 37 mins   ████████████████████████▓   98.69 % 
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 <!--END_SECTION:waka-->
 
