@@ -14,10 +14,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2021 - 02 January, 2022
+Week: 28 December, 2021 - 03 January, 2022
 
-PHP          7 hrs 37 mins   ████████████████████████▓   98.69 % 
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+PHP          7 hrs 24 mins   ████████████████████████▓   98.66 % 
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 <!--END_SECTION:waka-->
 
