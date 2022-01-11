@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2022 - 09 January, 2022
+Week: 04 January, 2022 - 10 January, 2022
 
 PHP     11 hrs 14 mins  ████████████████████████░   95.85 % 
 Other   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
