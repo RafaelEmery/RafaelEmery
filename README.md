@@ -13,12 +13,7 @@
  <!-- :bar_chart: Check my stats from WakaTime (VS Code) and GitHub: -->
 
 <!--START_SECTION:waka-->
-```text
-Week: 02 February, 2022 - 08 February, 2022
 
-PHP     8 hrs 13 mins   █████████████████████████   99.57 % 
-Other   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-```
 <!--END_SECTION:waka-->
 
 <!-- [![RafaelEmery's github stats](https://github-readme-stats.vercel.app/api?username=RafaelEmery&show_icons=true&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats) -->
