@@ -14,10 +14,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
-PHP     9 hrs 49 mins   ████████████████████████▒   97.97 % 
-Other   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+PHP     8 hrs 13 mins   █████████████████████████   99.57 % 
+Other   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 <!--END_SECTION:waka-->
 
