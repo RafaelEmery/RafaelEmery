@@ -14,12 +14,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
-Total: 6 hrs 56 mins
+Total: 8 hrs 21 mins
 
-PHP     6 hrs 57 mins   ████████████████████████░   96.42 % 
-Other   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+PHP          8 hrs 21 mins   ████████████████████████▒   96.98 % 
+Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 <!--END_SECTION:waka-->
 
