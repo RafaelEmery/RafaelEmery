@@ -14,7 +14,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
+From: 14 February, 2022 - To: 21 February, 2022
 
 PHP          9 hrs 40 mins   ████████████████████████▒   97.36 % 
 Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
