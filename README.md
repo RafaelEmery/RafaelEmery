@@ -13,13 +13,14 @@
  <!-- :bar_chart: Check my stats from WakaTime (VS Code) and GitHub: -->
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-PHP     8 hrs 9 mins    ████████████████████████░   95.76 % 
-Other   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-XML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+PHP        8 hrs 9 mins    ████████████████████████░   95.76 %
+Other      20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!-- [![RafaelEmery's github stats](https://github-readme-stats.vercel.app/api?username=RafaelEmery&show_icons=true&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats) -->
