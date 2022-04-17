@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 April 2022 - To: 15 April 2022
+From: 09 April 2022 - To: 16 April 2022
 
-PHP              11 hrs 29 mins  █████████████████████▓░░░   87.04 %
-Other            1 hr 41 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+PHP     8 hrs 42 mins   █████████████████████▒░░░   85.75 %
+Other   1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
 ```
 
 <!--END_SECTION:waka-->
