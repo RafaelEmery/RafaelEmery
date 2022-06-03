@@ -15,11 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 May 2022 - To: 01 June 2022
+From: 26 May 2022 - To: 02 June 2022
 
-PHP          13 hrs 35 mins  ██████████████████████▓░░   90.39 %
-YAML         51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+PHP          12 hrs 29 mins  ███████████████████████▒░   92.88 %
+Other        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
