@@ -15,11 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 June 2022 - To: 09 June 2022
+From: 03 June 2022 - To: 10 June 2022
 
-PHP          15 hrs 23 mins  █████████████████████░░░░   83.87 %
-C++          1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-Other        1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+PHP          11 hrs 53 mins  █████████████████████░░░░   84.59 %
+Other        1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
 ```
 
 <!--END_SECTION:waka-->
