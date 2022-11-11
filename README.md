@@ -1,6 +1,6 @@
 <!--![Profile views](https://gpvc.arturio.dev/RafaelEmery)-->
   
- :computer: I'm currently working as Backend Developer at [Olist Pax](https://olistpax.com.br/)
+ :computer: I'm currently working as Backend Developer at [Olist](https://olist.com/pt-br/)
  
  :rocket:  You can see my personal website at [rafaelemery.github.io](https://rafaelemery.github.io)
  
