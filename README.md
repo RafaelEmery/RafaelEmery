@@ -4,7 +4,7 @@
  
  :rocket:  You can see my personal website at [rafaelemery.github.io](https://rafaelemery.github.io)
  
- :hammer: My stack and tools for coding is available at [stackshare.io/RafaelEmery/personal-stack](https://stackshare.io/RafaelEmery/personal-stack)
+ :hammer: My stack and tools for coding is available at [stackshare.io/RafaelEmery/personal-stack](https://stackshare.io/RafaelEmery/rafael-stack-and-tools)](https://stackshare.io/RafaelEmery/rafael-stack-and-tools)
  
  :busts_in_silhouette:  Take a look at my LinkedIn profile: [linkedin.com/in/rafael-emery/](https://www.linkedin.com/in/rafael-emery/)
  
