@@ -1,4 +1,4 @@
-<!--![Profile views](https://gpvc.arturio.dev/RafaelEmery)-->
+![Profile views](https://gpvc.arturio.dev/RafaelEmery)
   
  :computer: I'm currently working as Backend Developer at [Olist](https://olist.com/pt-br/)
  
