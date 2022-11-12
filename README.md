@@ -8,7 +8,7 @@
  
  :black_nib:  Read my medium stories (pt-BR) at [medium.com/@rafael.emerycade](https://medium.com/@rafael.emerycade) or [RafaelEmery/my-medium-stories](https://github.com/RafaelEmery/my-medium-stories)
  
- :link:  Take a look at some of the [college projects that i created or participated](https://gist.github.com/RafaelEmery/e1fb06c1061e49529c94fcdd8b382d05) and some of my [personal studies and projects](https://gist.github.com/RafaelEmery/ee567bfa292f002f6374174cfb325032)
+ :link:  Take a look at some of the [college projects](https://gist.github.com/RafaelEmery/e1fb06c1061e49529c94fcdd8b382d05) and some of my [personal studies and projects](https://gist.github.com/RafaelEmery/ee567bfa292f002f6374174cfb325032)
  
  ___
  
