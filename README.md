@@ -22,7 +22,6 @@
 :books: Currently working and focused on:
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelEmery&layout=compact&hide=html,jupyter%20notebook&theme=dark" alt="RafaelEmery" />
+___
 
 :black_nib:  Read some of my articles at (pt-BR) at [RafaelEmery/my-articles](https://github.com/RafaelEmery/my-articles) and see some projects below 👇
