@@ -1,34 +1,18 @@
-![Profile views](https://gpvc.arturio.dev/RafaelEmery)
-  
- :computer:  I'm currently working as Backend Developer at [Olist](https://olist.com/pt-br/)
- 
- :busts_in_silhouette:  Take a look at my LinkedIn profile: [linkedin.com/in/rafael-emery/](https://www.linkedin.com/in/rafael-emery/)
- 
- :rocket:  You can see my personal website at [rafaelemery.github.io](https://rafaelemery.github.io) (pt-BR only)
- 
- :black_nib:  Read my medium stories (pt-BR) at [medium.com/@rafael.emerycade](https://medium.com/@rafael.emerycade) or [RafaelEmery/my-medium-stories](https://github.com/RafaelEmery/my-medium-stories)
- 
- :link:  Take a look at some of the [college projects](https://gist.github.com/RafaelEmery/e1fb06c1061e49529c94fcdd8b382d05) and some of my [personal studies and projects](https://gist.github.com/RafaelEmery/ee567bfa292f002f6374174cfb325032)
- 
+ :computer:  I'm currently working as Backend Software Engineer at [Olist](https://olist.com/pt-br/)
  ___
  
- :bulb:  Main stack as a Backend Developer:
+ ### :bulb:  Experiences as backend software engineer:
+
+:white_check_mark: Languages:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+:white_check_mark: Frameworks and libraries:
+ ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
- 
- :hammer:  More about the stack and tools that i use for coding/working is available at [stackshare.io](https://stackshare.io/RafaelEmery/rafael-stack-and-tools)
- 
- <!-- :bar_chart: Check my stats from WakaTime (VS Code) and GitHub: -->
+:white_check_mark: Databases:
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-<!--START_SECTION:waka-->
+:white_check_mark: Infra/DevOps:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-<!--END_SECTION:waka-->
-
-<!-- [![RafaelEmery's github stats](https://github-readme-stats.vercel.app/api?username=RafaelEmery&show_icons=true&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- 
-<p width="100%">
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=RafaelEmery&show_icons=true&count_private=true&hide=prs" alt="RafaelEmery" />
-<img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelEmery&layout=compact&hide=html,jupyter%20notebook,css" alt="RafaelEmery" />
-</p>
--->
+:black_nib:  Read some of my articles at (pt-BR) at [RafaelEmery/my-articles](https://github.com/RafaelEmery/my-articles) and see some projects below 👇
