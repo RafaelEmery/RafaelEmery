@@ -1,4 +1,6 @@
- :computer:  I'm currently working as Backend Software Engineer at [Olist](https://olist.com/pt-br/)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=RafaelEmery" alt="RafaelEmery" /> </p>
+
+:computer:  I'm currently working as Backend Software Engineer at [Olist](https://olist.com/pt-br/)
  ___
  
  ### :bulb:  Experiences as backend software engineer:
