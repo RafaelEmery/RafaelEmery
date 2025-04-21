@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=RafaelEmery" alt="RafaelEmery" /> </p>
+<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=RafaelEmery" alt="RafaelEmery" /> </p> -->
 
 :computer:  I'm currently working as Backend Senior Software Engineer at [Olist](https://olist.com/pt-br/)
  ___
