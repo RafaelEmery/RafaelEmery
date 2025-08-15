@@ -1,6 +1,6 @@
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=RafaelEmery" alt="RafaelEmery" /> </p> -->
 
-:computer:  I'm currently working as Backend Senior Software Engineer at [Loggi](loggi.com)
+:computer:  I'm currently working as Backend Senior Software Engineer at @Loggi
  ___
  
  ### :bulb:  Experiences as backend software engineer:
