@@ -6,7 +6,7 @@
 
 📝  Passionate about software engineering, software archtecture, design patterns and write really good code
 
-🔎  Check my pinned repositories or the listed [here](https://gist.github.com/RafaelEmery/ee567bfa292f002f6374174cfb325032)
+🔎  Check my pinned repositories or [click here to check all my repos here](https://gist.github.com/RafaelEmery/ee567bfa292f002f6374174cfb325032)
 
 ___
 
